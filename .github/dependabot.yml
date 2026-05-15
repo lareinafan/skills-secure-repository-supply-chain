@@ -8,3 +8,7 @@ updates:
     directory: "/code/src/AttendeeSite"
     schedule:
       interval: "weekly"
+  - package-ecosystem: "nuget"
+    directory: "/"
+    schedule:
+      interval: "daily"
